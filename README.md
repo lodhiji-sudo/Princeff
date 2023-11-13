@@ -1,4 +1,4 @@
-# Princeffname: CI
+name: CI
 
 
 on: [push, workflow_dispatch]
